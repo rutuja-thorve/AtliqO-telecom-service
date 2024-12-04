@@ -23,11 +23,11 @@ AtliqO, one of India's leading telecom providers, launched its 5G services in Ma
 
 ## 📌 Insights Generated
 
-### Revenue Trends: #### A decline of 0.26% in revenue post-5G launch.
+### Revenue Trends: A decline of 0.26% in revenue post-5G launch.
 
-### Unsubscribed Users: #### Increased by 10.52%
+### Unsubscribed Users: Increased by 10.52%
 
-### Active Users: #### Decreased by 4.32%, highlighting retention issues.
+### Active Users: Decreased by 4.32%, highlighting retention issues.
 
 ## Top Revenue-Generating Plans:
 
@@ -52,7 +52,7 @@ Highest unsubscribed users: Delhi (7.80% from June to September).
 
 ## 🔑 Key Features of the Dashboard
 
-### Dynamic KPI Comparisons: #### Pre- and post-5G performance metrics.
+### Dynamic KPI Comparisons: Pre- and post-5G performance metrics.
 
 ### Plan Analysis: Identify top-performing plans and optimize offerings.
 
